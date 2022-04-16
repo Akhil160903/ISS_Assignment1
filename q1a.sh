@@ -1,0 +1,1 @@
+sed '/^$/d' quotes.txt
