@@ -1,1 +1,0 @@
-wc -w <  quotes.txt
